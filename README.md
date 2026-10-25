@@ -56,7 +56,7 @@ Interacting with a computer often requires users to switch between applications,
    ```
 
 3. Open a terminal in the project directory.
-4. Install the required Python packages once the project's dependency list is available.
+4. python -m pip install -r requirements.txt
 5. Run the application:
 
    ```bash
